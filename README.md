@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehdinip@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14prKniteZtMXmzWHv95IoXHPafuhuA2K/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/14prKniteZtMXmzWHv95IoXHPafuhuA2K/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
