@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate full stack web developer from Canada</h3>
 
-- 🔭 I’m currently working on **MapleMind blog**
+- 🔭 I’m currently working on **MapleMind Tools** (please check [**the repo**](https://github.com/mahdi-nadir/canadianImmigrationTools) of it)
 
 - 🌱 I’m currently learning **C# & .NET**
 
 - 👨‍💻 All of my projects are available at [https://mahdi-nadir.netlify.app/](https://mahdi-nadir.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Next.js, Laravel**
+- 💬 Ask me about **JavaScript, React, Next.js, PHP & Laravel**
 
 - 📫 How to reach me **mehdinip@gmail.com**
 
