@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 👨‍💻 All of my projects are available at [https://mahdi-nadir.netlify.app/](https://mahdi-nadir.netlify.app/)
+- 👨‍💻 All of my skills and projects are available at [**my portfolio**](https://mahdi-nadir.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Next.js, PHP & Laravel**
 
 - 📫 How to reach me **mehdinip@gmail.com**
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/14prKniteZtMXmzWHv95IoXHPafuhuA2K/view)
+- 📄 Know about my experiences in [**my resumé**](https://drive.google.com/file/d/14prKniteZtMXmzWHv95IoXHPafuhuA2K/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
