@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate full stack web developer from Canada</h3>
 
-- 🔭 I’m currently working on **MapleMind Tools** (please check [**the repo**](https://github.com/mahdi-nadir/canadianImmigrationTools) of it)
+- 🔭 I’m currently working on **MapleMind Blog** (please check [**the repo**](https://github.com/mahdi-nadir/mapleBlog) of it)
 
 - 🌱 I’m currently learning **C# & .NET**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mehdinip@gmail.com**
 
-- 📄 Know about my experiences in [**my resumé**](https://drive.google.com/file/d/14prKniteZtMXmzWHv95IoXHPafuhuA2K/view)
+- 📄 Know about my experiences in [**my resumé**](https://drive.google.com/file/d/1hdtmW4HHsy8fbs4UHSPVvgz5RjlPifbT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
