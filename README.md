@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MapleMind Blog** (please check [**the repo**](https://github.com/mahdi-nadir/mapleBlog) of it)
 
-- 🌱 I’m currently learning **C# & .NET**
+- 🌱 I’m currently learning **WordPress, C# & .NET**
 
 - 👨‍💻 All of my skills and projects are available at [**my portfolio**](https://mahdi-nadir.netlify.app/)
 
